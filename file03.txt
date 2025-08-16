@@ -1,2 +1,0 @@
-menambah file03
-menambah baris di file03.xtx
